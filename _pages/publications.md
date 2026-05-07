@@ -16,7 +16,4 @@ nav_order: 2
     <em>I am currently creating accessible PDFs for my publications. Check back soon!</em>
   </p>
 
-  <div class="publications">
-    {% bibliography %}
-  </div>
 </div>
