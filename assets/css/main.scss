@@ -40,19 +40,21 @@
 
 /* Custom Heading Sizes */
 
-/* This controls the big main page titles (like "Research Projects") */
+/* Controls the main page title sizes (Research Projects, etc.)
+
 .post-title {
-  font-size: 2.5rem !important; 
-  font-weight: 500 !important;
+font-size: 2.5rem !important;
+font-weight: 500 !important;
 }
 
-/* This controls the sub-titles directly under the main headers */
+/* Controls the sub-titles directly under the main headers */
+
 .post-description {
-  font-size: 1.2rem !important;
-  margin-bottom: 2rem !important;
+   font-size: 1.2rem !important;
+   margin-bottom: 2rem !important;
 }
 
-/* This handles standard headers within your text */
+/* Handles standard headers within your text */
 h1 { font-size: 2.2rem !important; }
 h2 { font-size: 1.8rem !important; }
 h3 { font-size: 1.5rem !important; }
