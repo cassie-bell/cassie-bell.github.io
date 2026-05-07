@@ -10,7 +10,7 @@ horizontal: false
 <div class="post">
   <div class="header-bar" style="text-align: center; margin-bottom: 2rem;">
     <h1 style="color: var(--global-theme-color); font-weight: bold;"> Research Projects</h1>
-    <h2>Examining the role of environmental threats on human behavior</h2>
+    <h2>Exploring environmental threats and human behavior</h2>
   </div>
 
   <p style="text-align: center; font-size: 1.1rem;">
