@@ -2,7 +2,7 @@
 layout: about
 title: About Me
 permalink: /
-subtitle: "<a href='https://www.childstudycenter-rutgers.com'>Current Lab: Child Study Center</a>."
+subtitle: "<a href='https://www.childstudycenter-rutgers.com'>Current Lab: Child Study Center</a>"
 
 profile:
   align: right
