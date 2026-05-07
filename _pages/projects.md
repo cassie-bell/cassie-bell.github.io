@@ -1,13 +1,22 @@
 ---
-layout: page
+layout: default
 title: Projects
 permalink: /projects/
-description: What I am up to
 nav: true
 nav_order: 3
 # display_categories: [work, fun]
 horizontal: false
 ---
+<div class="post">
+  <div class="header-bar" style="text-align: center; margin-bottom: 2rem;">
+    <h1 style="color: var(--global-theme-color); font-weight: bold;">Projects & Case Studies</h1>
+    <h2>Examining the role of environmental threats on human behavior</h2>
+  </div>
+
+  <p style="text-align: center; font-size: 1.1rem;">
+    <em>I am currently compiling the information on our projects. Check back soon!</em>
+  </p>
+</div>
 
 <!-- pages/projects.md -->
 <div class="projects">
