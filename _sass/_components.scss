@@ -61,7 +61,6 @@ ul.task-list input[type="checkbox"] {
   .more-info {
     margin-bottom: 5px;
     margin-top: 5px;
-    font-family: monospace;
 
     p {
       display: inline-block;
@@ -258,12 +257,4 @@ ul.task-list input[type="checkbox"] {
 
 .d2h-diff-table {
   position: relative;
-}
-
-.profile .more-info, 
-.profile .more-info code {
-  font-family: var(--global-font-family) !important;
-  background-color: transparent !important;
-  color: var(--global-text-color) !important;
-  font-size: 1rem !important;
 }
