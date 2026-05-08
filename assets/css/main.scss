@@ -40,11 +40,19 @@
 
 /* Custom Heading Sizes */
 
-/* Controls the main page title sizes (Research Projects, etc.)
+/* Controls the main page title sizes (Research Projects, etc.) */
 
 .post-title {
-font-size: 5.5rem !important;
+font-size: 2.5rem !important;
 font-weight: 500 !important;
+text-align: center !important;
+}
+
+/* Center the header on the main page */
+
+.post .post-header {
+text-align: center; 
+margin-bottom: 2rem;
 }
 
 /* Controls the sub-titles directly under the main headers */
@@ -54,7 +62,7 @@ font-weight: 500 !important;
    margin-bottom: 2rem !important;
 }
 
-/* Handles standard headers within your text */
+/* Handles standard headers within your text and blogs */
 h1 { font-size: 2.2rem !important; }
 h2 { font-size: 1.8rem !important; }
 h3 { font-size: 1.5rem !important; }
