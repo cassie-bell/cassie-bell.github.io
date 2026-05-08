@@ -18,16 +18,17 @@ pagination:
 
 <div class="post">
 
-  <div class="header-bar" style="text-align: center; margin-bottom: 2rem;">
-    <h1 style="color: var(--global-theme-color); font-weight: bold;">Translating Threat</h1>
-    <h2>a blog about threat, safety, and human behavior</h2>
-  </div>
+  <header class ="post-header">
+    <h1 class="post-title">Translating Threat</h1>
+    <p class="post-description">a blog about threat, safety, and human behavior</p>
+  </header>
+
+  <hr>
 
   <p style="text-align: center; font-size: 1.1rem; margin-bottom: 3rem;">
     <em>I am currently writing up short and sweet summaries of academic journals focused on environmental threats. Check back soon for my first blog!</em>
   </p>
 
-{% assign featured_posts = site.posts | where: "featured", "true" %}
 {% assign featured_posts = site.posts | where: "featured", "true" %}
 {% if featured_posts.size > 0 %}
 <br>
