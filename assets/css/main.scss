@@ -58,8 +58,8 @@ width: 100% !important;
 }
 
 /* Subtitles for header and page description */
-.post-header .desc, 
-.post-description
+.post-header .desc,
+.post-description,
 header.post-header p.desc,
 p.post-description {
    font-size: 1.1rem !important;
@@ -78,5 +78,5 @@ p.post-description {
 .post .post-header,
 header.post-header {
    text-align: center !important;
-   margin-bottom: 3rem; /* adds space between name and bio + picture */
+   margin-bottom: 3rem !important; /* adds space between name and bio + picture */
 }
