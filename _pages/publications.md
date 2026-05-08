@@ -1,7 +1,7 @@
 ---
 layout: default
 permalink: /publications/
-title: Publications
+title: publications
 nav: true
 nav_order: 2
 ---
