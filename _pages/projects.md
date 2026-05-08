@@ -9,7 +9,7 @@ nav_order: 3
 <div class="post">
   <div class="header-bar" style="text-align: center; margin-bottom: 2rem;">
     <h1 style="color: var(--global-theme-color); font-weight: bold;">Research Projects</h1>
-    <h2>Translating environmental threats into behavioral insights</h2>
+    <h2> translating environmental threats into behavioral insights</h2>
   </div>
 
   <p style="text-align: center; font-size: 1.1rem;">
