@@ -80,3 +80,22 @@ header.post-header {
    text-align: center !important;
    margin-bottom: 3rem !important; /* adds space between name and bio + picture */
 }
+
+/* for blog feed and card titles */
+
+ul.post-list .post-title,
+ul.post-list h3,
+.featured-posts .card-title {
+font-size: 1.5rem !important; 
+font-weight: 700 !important;
+text-align: left !important;
+letter-spacing: normal !important;
+display: inline-block !important;
+}
+
+/*ensure blog dates + tags stay subtle */
+
+ul.post-list .post-meta,
+ul.post-list .post.tags {
+   text-align: left !important;
+}
