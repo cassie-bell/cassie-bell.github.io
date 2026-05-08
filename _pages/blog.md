@@ -20,7 +20,7 @@ pagination:
 
   <div class="header-bar" style="text-align: center; margin-bottom: 2rem;">
     <h1 style="color: var(--global-theme-color); font-weight: bold;">Translating Threat</h1>
-    <h2>A blog about threat, safety, and human behavior</h2>
+    <h2>a blog about threat, safety, and human behavior</h2>
   </div>
 
   <p style="text-align: center; font-size: 1.1rem; margin-bottom: 3rem;">
