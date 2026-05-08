@@ -23,9 +23,9 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-projects",
-          title: "Projects",
-          description: "",
+        },{id: "nav-research-projects",
+          title: "Research Projects",
+          description: "translating environmental threats into behavioral insights",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
