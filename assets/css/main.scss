@@ -66,3 +66,24 @@ margin-bottom: 2rem;
 h1 { font-size: 2.2rem !important; }
 h2 { font-size: 1.8rem !important; }
 h3 { font-size: 1.5rem !important; }
+
+/* Center the name and subtitle on the about page */ 
+
+.post .post-header {
+   text-align: center;
+   margin-bottom: 3rem; /* adds space between name and bio + picture */
+}
+
+/* match the other headers */
+.post-title {
+   font-weight: 500 !important; /* font thickness */ 
+   color: #212529 !important; 
+   letter-spacing: -0.5px;
+}
+
+/* centering the subtitle with the website */
+.post-header .desc {
+   font-size: 1.2rem;
+   margin-top: 0.5rem;
+   color: var(--global-theme-color) !important;
+}
